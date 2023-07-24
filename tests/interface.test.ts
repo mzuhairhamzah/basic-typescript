@@ -37,9 +37,11 @@ describe('Interface', function () {
         }
         const dictionary: StringDictionary = {
             name: "Zuhair",
-            address: "Makassar"
+            address: "Makassar",
+            country : "Indonesia"
         };
         console.info(dictionary["name"]);
         console.info(dictionary["address"]);
+        console.info(dictionary["country"]);
     });
 });
