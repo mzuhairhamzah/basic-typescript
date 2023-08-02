@@ -1,2 +1,2 @@
 ## basic-typescript
-[docs typescript](https://www.typescriptlang.org/)
+Reference : [docs typescript](https://www.typescriptlang.org/)
